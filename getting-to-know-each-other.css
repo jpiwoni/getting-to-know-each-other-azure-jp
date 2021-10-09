@@ -7,5 +7,13 @@ h1 {color:black}
 }
 
 table, th, td {
-  border:1px solid black;
+  border:2px solid black;
 }
+
+.hobby {
+    background-color: powderblue;
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
